@@ -1,8 +1,5 @@
 # CadastroPI
 Tela de cadastro do projeto integrador de banco de dados
-Claro! Aqui está um exemplo de `README.md` para o seu projeto **Sistema de Cadastro de Usuários para Chatbot da PUC Campinas**, desenvolvido com Streamlit e MongoDB:
-
----
 
 ````markdown
 # 🎓 Sistema de Cadastro de Usuários - ChatBot PUC Campinas
